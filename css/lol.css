@@ -80,7 +80,7 @@
  	position: absolute;
  	top: -2px ;
  	left: -2px ;
- 	background: linear-gradient(45deg,#ffff1a,#ff8c1a,#8cff1a,#1aff1a ,#1affc6,#1ac6ff);
+ 	background: linear-gradient(45deg,#ffff1a,#ff8c1a,#ff6600,#666666,#4d4d4d, #ffbf00);
  	 /*#fb0094,#0000ff,#00ff00,#ffff00,#fb0094,#0000ff,#00ff00,#ffff00  */ 
  	background-size: 400%;
  	width: calc(100% + 4px) ;
@@ -97,7 +97,7 @@
 .taha{
 	
 	 
-	margin-top:35px;
+	margin-top:0px;
 
 
      background-image: url('../images/csgo.jpg');
@@ -120,7 +120,7 @@
 	 
 	float: left;
 
-	padding:40px;
+	padding:20px;
 	 
 
 }
@@ -138,17 +138,18 @@
 
 	position: absolute;
 
-	top: 20%;
-	left: 2%  ;
+	top: 30%;
+	left: 30%  ;
 }
   
  
 .imagebig{
+
 	 
 	  
 	 float: left;
 
-	padding:40px;
+	padding:20px;
 	    
 
 	 
@@ -160,10 +161,8 @@
 
 
 }
-.lol{ 
-	
-	 display: none;
-	
+.lol{
+	display: none;
 
 	padding-left: 6px;
 	 position: absolute;
@@ -366,8 +365,6 @@
 
 }
 .lol{
-	
-	
 	display: block;
 	 position: absolute;
 	top: 80%;
@@ -378,7 +375,7 @@
 
 	font-size:25px;
 	font-family: 'Nosifer', cursive;
-	background-color:#ff9900;
+	background-color:#666666;
 	  
 	color: #fff;
 
