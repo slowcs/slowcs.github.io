@@ -1,0 +1,416 @@
+ *{
+
+
+
+ 	margin: 0;
+ } 
+.kraloua{
+	 height:40px; 
+     width:100%; 
+  
+	 color: #fff;
+	font-size: 20px;
+	background-color:#ff9900;
+	position: sticky;
+    top:0;
+    right: 0;
+    left: 0;
+ 
+ }
+ .kraloua h1{
+ 	display: none;
+ 	 
+
+} 
+.kraloua h2{
+	font-size :20px;
+	font-family: 'Nosifer', cursive;
+	position: absolute;
+
+	left:250px;
+	top:0px
+
+
+
+
+
+}
+
+
+.kraloua ul{
+	margin-top:2px;
+	   padding-left:10px;
+	   list-style:none; 
+	   word-spacing:0.5em;
+ 
+}
+
+
+
+.kraloua li{
+	
+	margin:left 100px;
+	font-size: 15px;
+	 
+	 
+	display: inline;
+  
+     
+
+}
+.kraloua a{
+	 
+
+    font-family: 'Nosifer', cursive;
+
+	color:#fff;
+	text-decoration: none;
+	font-size:10px;
+	/*padding-right:15px;*/
+}
+ a:hover{
+
+
+	color: black;
+}
+.kraloua:before
+{
+ 
+ 	content: '';
+ 	position: absolute;
+ 	top: -2px ;
+ 	left: -2px ;
+ 	background: linear-gradient(45deg,#ffff1a,#ff8c1a,#8cff1a,#1aff1a ,#1affc6,#1ac6ff);
+ 	 /*#fb0094,#0000ff,#00ff00,#ffff00,#fb0094,#0000ff,#00ff00,#ffff00  */ 
+ 	background-size: 400%;
+ 	width: calc(100% + 4px) ;
+ 	height:  calc(100% + 4px);
+ 	z-index: -1;
+ 	animation: hhhhh 20s linear infinite;
+  
+
+
+
+}
+
+
+.taha{
+	
+	 
+	margin-top:35px;
+
+
+     background-image: url('../images/csgo.jpg');
+
+     width:100%;
+     height:100%; 
+	 background-position:center right;
+	  min-height: 640px;
+	 min-width:370px;  
+	 
+	  
+
+
+
+}
+
+
+.image{
+	display: none;
+	 
+	float: left;
+
+	padding:40px;
+	 
+
+}
+.csgo {
+	box-shadow: 10px  10px 5px   ;
+	 color:	#1a1a1a;
+
+
+}
+
+
+.hata{
+
+
+
+	position: absolute;
+
+	top: 20%;
+	left: 2%  ;
+}
+  
+ 
+.imagebig{
+	 
+	  
+	 float: left;
+
+	padding:40px;
+	    
+
+	 
+
+}
+.csgo{
+
+
+
+
+}
+.lol{
+
+	padding-left: 6px;
+	 position: absolute;
+	top: 10%;
+	left:   30%; 
+
+
+
+
+	font-size:16px;
+	background-color:#ff9900;
+	  
+	color: #fff;
+
+	width: 150px;
+	height:200px;
+	 
+
+
+
+
+
+}
+
+  
+
+
+
+
+@keyframes hhhhh{
+
+ 0%
+ 	{
+ 		background-position: 0 0;
+
+
+
+ 	}
+ 	 
+
+ 	50%{
+ 		background-position: 100% 0 ;
+
+	
+
+ 	}
+ 	 
+ 	100%{
+
+
+ 		background-position: 100% 0 ;
+ 	}*/
+ }
+
+  
+ /*:::::::::::::::::::::::::::::::::::::::::::::::::::::::;*/
+  /*:::::::::::::::::::::::::::::::::::::::::::::::::::::::;*/
+   /*:::::::::::::::::::::::::::::::::::::::::::::::::::::::;*/
+
+
+@media only screen and (min-width: 768px){
+
+.imagebig{
+
+
+	display: none;
+}
+
+	*{
+
+
+
+
+		margin: 0;
+		padding: 0;
+		margin-bottom: 0;
+	}
+	body{
+		background-color:#101010;
+		margin-bottom: 0;
+	    padding-bottom: 0;
+
+ 
+
+
+
+
+	}
+	.kraloua{
+	  height:7% ; 
+     width:100%; 
+  
+	 color: #fff;
+	font-size: 25px;
+	background-color:#ff9900;
+	position:fixed;
+    top:0;
+    right: 0;
+    left: 0; 
+    	 
+	 
+ 
+ }
+.kraloua h2{
+
+
+	display: none;
+}
+ 
+  .kraloua h1{
+  	display: block;
+ 	 
+ 	 
+
+	font-family: 'Nosifer', cursive;
+	position: absolute;
+
+	left:1200px;
+	top:0px
+
+} 
+ .kraloua ul{
+
+
+ 	   
+	 margin-top:15px;
+	   padding-left: 40px;
+	   list-style:none; 
+	   word-spacing: 1em; 
+ 
+}
+ .kraloua li{
+
+ 	display: inline;
+	
+	/*margin:left 100px;
+	font-size: 30px;
+	 
+	 
+	display: inline;
+  
+    word-spacing: 0.5em; */
+
+}
+ .taha{
+	
+	 
+	margin-top:70px;
+
+
+     background-image: url('../images/csgo1.jpg');
+
+      width: 100%;
+     height:100%; 
+	 background-position:center right;
+	 min-height:1400px;
+	 min-width:700px; 
+	 
+	 text-align: center; 
+
+
+
+}
+ .kraloua a{
+
+
+ 	 
+	 
+
+     font-family: 'Nosifer', cursive;
+
+	color:#fff;
+	text-decoration: none;
+	font-size:24px;
+	padding-right:15px; 
+}
+ a:hover{
+
+
+	color: black;
+}
+.hata{
+
+
+
+	position: absolute;
+
+	top: 55%;
+	left: 10%  ;
+}
+  
+ 
+.image{
+	display: block;
+	 
+	float: left;
+
+	padding:40px;
+	 
+
+}
+.lol{
+	 position: absolute;
+	top: 80%;
+	left:   60%; 
+
+
+
+
+	font-size:25px;
+	font-family: 'Nosifer', cursive;
+	background-color:#ff9900;
+	  
+	color: #fff;
+
+	width: 630px;
+	height: 300px;
+	 
+
+
+
+
+
+}
+
+ 
+
+ 
+
+  
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}

@@ -1,0 +1,156 @@
+ *{
+
+	margin: 0;
+	padding: 0px;
+}
+
+body{
+
+
+background-color:#384f94;
+width: 100%;
+
+
+
+}
+
+ 
+ nav {
+ 	 
+ 	 
+
+ 	height:50px; 
+     width:100%; 
+  
+	  
+	
+	background:rgba(0,0,0,0.8);
+
+	border-top: 1px solid rgba(255,255,255,.2);
+	border-bottom:  1px solid rgba(255,255,255,.2);
+	 position: sticky;
+	 top: 0;
+	 
+ 
+
+
+
+ }
+  
+ nav ul{
+
+		 display: flex; 
+		 margin :0;
+		 padding: 0 100px; 
+		 float:right;
+		 
+
+	 
+	   /*padding-left: 400px;*/
+	    
+	   
+
+
+}
+ nav ul li{
+
+	 
+
+
+	/*margin:left 20px;
+	font-size: 25px;*/
+	 
+	 
+	display: inline;
+
+
+
+	 
+	/*word-spacing: 0.5em;*/
+
+
+}
+ 
+  
+
+ nav ul li a
+
+ {	display: block;
+	color: #fff;
+	padding: 0 20px;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-family: bold;
+	line-height: 50px;
+
+
+ 
+
+
+   /* font-family: 'Nosifer', cursive;
+
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:30px;*/
+}
+a:hover{
+
+
+	/*color: black;*/
+}
+.csgo{
+	 
+
+
+	background-image: url('../images/csgo1.jpg');
+
+     width: 100%;
+     height: 100%;
+	 background-position:center right;
+	 min-height:1300px ;
+	 min-width:1000px;
+	 margin-bottom: 50px ; 
+	 text-align: center; 
+
+
+
+
+
+
+}
+.taha{
+
+
+
+
+
+
+
+
+     
+	position: absolute;
+	top:70px;
+	left:100px;
+
+
+
+
+
+}
+ .video{
+
+
+ 	padding: 3px;
+ 	float: left ;
+
+
+
+
+  
+
+
+ }
+ 
+  
+ 

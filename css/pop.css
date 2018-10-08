@@ -1,0 +1,105 @@
+*{
+
+	margin: 0;
+}
+
+body{
+
+
+ 
+width: 100%;
+
+
+
+}
+
+  
+.kraloua{
+	position: relative; 
+	 height: 70px; 
+ 
+	color: #fff;
+	font-size: 25px;
+	background-color:#ff9900;
+	position: fixed;
+    top:0;
+    right: 0;
+    left: 0;
+
+     
+}
+ 
+ .kraloua h1{
+
+	font-family: 'Nosifer', cursive;
+	position: absolute;
+
+	left:800px;
+	top:0px
+
+} 
+.kraloua ul{
+	margin-top:15px;
+	 
+		 
+
+	 
+	   padding-left: 40px;
+		  400px;*/
+	   list-style:none; 
+	   word-spacing: 1em;
+
+
+}
+.kraloua li{
+	 
+	margin:left 100px;
+	font-size: 30px;
+	 
+	 
+	display: inline;
+ 
+}
+
+.kraloua a{
+
+    font-family: 'Nosifer', cursive;
+
+	color:#fff;
+	text-decoration: none;
+	font-size:24px;
+	padding-right:15px;
+}
+a:hover{
+
+
+	color: black;
+}
+.taha{
+
+	position: fixed;
+	margin-top: 70px;
+	background-image: url('../images/kok.jpg');
+	 
+ 
+
+     width: 100%;
+     height: 100%;
+	 background-position:center right;
+	 min-height:1300px ;
+	 min-width: 300px;
+	 margin-bottom: 50px ; 
+	 text-align: center; 
+
+
+ 
+
+}
+.image{
+	 
+	float: left;
+
+	padding:40px;
+}
+
+ 
