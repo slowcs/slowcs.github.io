@@ -160,7 +160,10 @@
 
 
 }
-.lol{
+.lol{ 
+	
+	position: absolute;
+	
 
 	padding-left: 6px;
 	 position: absolute;
